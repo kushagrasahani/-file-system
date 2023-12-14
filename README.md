@@ -19,3 +19,6 @@ Navigate to the directory in the terminal.
 Run the following commands:
 docker build -t in-memory-file-system .
 docker run -it in-memory-file-system
+
+#GOOGLE DOC LINK
+https://docs.google.com/document/d/1Us8Kl6BVnUiptYV1u8uJ0kpw0ytp8_ZUF-i_jSgR2Ag/edit?usp=sharing
